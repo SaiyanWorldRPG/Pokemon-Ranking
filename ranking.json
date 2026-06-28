@@ -1,1 +1,10 @@
-{}
+{
+  "players": {
+    "123": {
+      "player_id": "123",
+      "player_name": "Paulo",
+      "score": 9999,
+      "timestamp": "2026-06-28T16:52:20.111Z"
+    }
+  }
+}
