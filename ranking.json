@@ -1,17 +1,5 @@
 {
   "players": {
-    "123": {
-      "player_id": "123",
-      "player_name": "Paulo",
-      "score": 9999,
-      "timestamp": "2026-06-28T16:52:20.111Z"
-    },
-    "54596": {
-      "player_id": 54596,
-      "player_name": "Aaaa ",
-      "score": 485,
-      "timestamp": "2026-06-28 14:29:29 -0300"
-    },
     "60814": {
       "player_id": 60814,
       "player_name": "Angelo",
